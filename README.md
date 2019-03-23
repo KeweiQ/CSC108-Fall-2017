@@ -1,2 +1,2 @@
-# Introduction-to-Computer-Programming
-Course code: CSC108
+# CSC108 Fall 2017
+Introduction-to-Computer-Programming
